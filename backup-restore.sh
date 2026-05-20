@@ -332,7 +332,7 @@ get_bot_params() {
         "Бот от Snoups")
             echo "remnashop-db|remnashop-db-data|remnashop|remnashop-db"
             ;;
-        "remnawave-minishop")
+        "Бот от 3252a8")
             echo "remnawave-minishop-db|remnawave-minishop-db-data|remnawave-minishop-shop-data|remnawave-minishop-db"
             ;;
         *)
